@@ -11,8 +11,8 @@ if login:
 
 # logica or
 
-logica_ou = False or False or True
-print(logica_ou)
+logica_or = False or False or True
+print(logica_or)
 
 # logica not
 negacao = not False

@@ -3,7 +3,7 @@
 # 1 --> entrar
 # ----> erro!
 
-escolha_usuario= 1
+escolha_usuario = int(input("Digite o que deseja fazer: "))
 
 match escolha_usuario:
     case 0:
